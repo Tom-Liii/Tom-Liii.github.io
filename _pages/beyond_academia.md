@@ -50,3 +50,6 @@ I am a big fan of ACG culture!
 ### VIM
 
 ### Stable Diffusion
+
+## Food & Cooking
+- I have a deep love for delicious food and enjoy experimenting with cooking. Whether it’s trying new recipes or perfecting my own, cooking is a creative outlet where I can blend flavors and techniques to craft enjoyable meals.
