@@ -9,56 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+- B.S. in Computer Science, The Chinese University of Hong Kong, Hong Kong, 2024
+- High School Diploma, Tianhe Foreign Language School, Guangzhou, 2020
+- Junior High School Diploma, South China University of Technology Affiliated Experimental School (Middle School Section), Guangzhou, 2017
+- Elementary School Diploma, South China University of Technology Affiliated Experimental School (Primary School Section), Guangzhou, 2014
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Lightweight 3D Gaussian Splatting (*Jun. 2024 - Nov. 2024, Research Internship*)
+  - School of Computer Science and Engineering, South China University of Technology
+  - Supervisor: Professor NIE Yongwei
+  - Duties includes: 
+    - Literature review
+    - Algorithm implementation
+    - Paper writing
+- Real-Time Uncertainty Estimation in Endoscopic Submucosal Dissection (*Jun. 2023 - Aug. 2023, Research Internship*)
+  - Department of Computer Science and Engineering, The Chinese University of Hong Kong
+  - Supervisor: Professor DOU Qi
+  - Duties includes:
+    - Developed a posterior network designed to estimate real-time uncertainty in Endoscopic Submucosal Dissection procedures, enhancing decision-making in minimally invasive surgery
+    - Tested and debugged to ensure the network's reliability
+    - Presented the project at the department's concluding presentation session of the summer internship
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Neural Text-to-Speech System for Personalized Voice Synthesis (*Nov. 2022 - May 2023, Student Helper*)
+  - Department of Electronic Engineering, The Chinese University of Hong Kong
+# Skills
+- Python
+  - PyTorch
+  - OpenCV
+- Linux 
+  - VIM
+  - Distributed Computing
+    - Hadoop
+    - Google Cloud Computing
+    - AWS
+- C++
+- Java
+- PHP
+- JavaScript
+- HTML
+- SQL

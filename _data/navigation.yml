@@ -19,11 +19,14 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-  - title: "About"
+  - title: "About Me"
     url: /
     
   - title: "CV"
     url: /cv/
+
+  - title: "Beyond Academia"
+    url: /beyondAcademia/
     
   # - title: "Guide"
   #   url: /markdown/
