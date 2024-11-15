@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 - B.S. in Computer Science, The Chinese University of Hong Kong, Hong Kong, 2024
 - High School Diploma, Tianhe Foreign Language School, Guangzhou, 2020
 - Junior High School Diploma, South China University of Technology Affiliated Experimental School (Middle School Section), Guangzhou, 2017
 - Elementary School Diploma, South China University of Technology Affiliated Experimental School (Primary School Section), Guangzhou, 2014
 
-# Work experience
-
+## Work experience
 - Lightweight 3D Gaussian Splatting (*Jun. 2024 - Nov. 2024, Research Internship*)
   - School of Computer Science and Engineering, South China University of Technology
   - Supervisor: Professor NIE Yongwei
@@ -33,8 +32,9 @@ redirect_from:
     - Presented the project at the department's concluding presentation session of the summer internship
 
 - Neural Text-to-Speech System for Personalized Voice Synthesis (*Nov. 2022 - May 2023, Student Helper*)
-  - Department of Electronic Engineering, The Chinese University of Hong Kong
-# Skills
+  - Department of Electronic Engineering, The Chinese University of Hong Kong  
+
+## Skills
 - Python
   - PyTorch
   - OpenCV
