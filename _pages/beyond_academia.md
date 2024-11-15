@@ -7,7 +7,6 @@ redirect_from:
   - /beyondAcademia
 ---
 {% include base_path %}
-# Beyong Academia
 - Beyond my academic and professional pursuits, I have a deep passion for a variety of activities that stimulate both mind and body. If you share any of these passions or hobbies, don’t hesitate to reach out! I always welcome a friendly chat on these topics.
 ## Sports
 ### Football
