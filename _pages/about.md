@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Heming Li's Personal Homepage"
+title: "Heming LI's Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/

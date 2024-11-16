@@ -9,7 +9,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 - Beyond my academic and professional pursuits, I have a deep passion for a variety of activities that stimulate both mind and body. If you share any of these passions or hobbies, don’t hesitate to reach out! I always welcome a friendly chat on these topics.
 
-# Sports
+## Sports
 
 ### Football
 
@@ -25,7 +25,7 @@ Football is one of the biggest endevours in my life!
 
 Table Tennis is also one of my love!
 
-# ACG (Anime, Comics and Games)
+## ACG (Anime, Comics and Games)
 
 I am a big fan of ACG culture!
 
@@ -46,11 +46,11 @@ I am a big fan of ACG culture!
     - <img src="../images/sami_all_endings.png" alt="sami2" width="300"/> 
 - Contingency Contract
 
-# Technology
+## Technology
 
 ### VIM
 
 ### Stable Diffusion
 
-# Food & Cooking
+## Food & Cooking
 - I have a deep love for delicious food and enjoy experimenting with cooking. Whether it’s trying new recipes or perfecting my own, cooking is a creative outlet where I can blend flavors and techniques to craft enjoyable meals.
