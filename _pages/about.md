@@ -12,6 +12,7 @@ In addition to my academic endeavors, I am passionate about sports, anime and co
 
 Feel free to explore my projects and passions, or contact me if you’d like to collaborate or discuss exciting computer vision challenges or chat about my favorite interests.
 
+---
 ## Research Interests
 **My research interests include:**
 - 3D Computer Vision
