@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## Education
 - B.S. in Computer Science, The Chinese University of Hong Kong, Hong Kong, 2024
