@@ -23,6 +23,7 @@ redirect_from:
     - Leverageg large language models (LLMs) and supervised learning. Ideally, the project will also contribute to the open-source PRTS Arknights database.
 
 - Lightweight 3D Gaussian Splatting (*Jun. 2024 - Nov. 2024, Research Internship*)
+  - *Now under paper review*
   - School of Computer Science and Engineering, South China University of Technology
   - Supervisor: Professor NIE Yongwei
   - Duties includes: 
