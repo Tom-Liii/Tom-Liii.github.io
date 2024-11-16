@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there, this is Heming LI, Tom. I am currently a fresh graduate from the Department of Computer Science and Engineering, The Chinese University of Hong Kong, majoring in ***computer science***. 
+Hi there, this is Heming LI, Tom. I am currently a fresh graduate from the Department of Computer Science and Engineering, The Chinese University of Hong Kong, majoring in ***computer science***. I have keen interest in pursuing a career in the field of ***computer vision***. 
 
 ## Research Interests
 **My research interests include:**
