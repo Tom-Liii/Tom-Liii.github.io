@@ -8,6 +8,12 @@ redirect_from:
 ---
 Hi there, this is Heming LI, Tom. I am currently a fresh graduate from the Department of Computer Science and Engineering, The Chinese University of Hong Kong, majoring in ***computer science***. I have keen interest in pursuing a career in the field of ***computer vision***. 
 
+---
+
+Currently, I am working as a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. [Zhu Lei](https://sites.google.com/site/indexlzhu/home).
+
+---
+
 In addition to my academic endeavors, I am passionate about sports, anime and cooking, and you can learn more about me on [Beyond Academia](https://tom-liii.github.io//beyondAcademia/).
 
 Feel free to explore my projects and passions, or contact me if you’d like to collaborate or discuss exciting computer vision challenges or chat about my favorite interests.
