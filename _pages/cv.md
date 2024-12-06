@@ -16,7 +16,10 @@ redirect_from:
 - Elementary School Diploma, South China University of Technology Affiliated Experimental School (Primary School Section), Guangzhou, 2014
 ---
 ## Work experience
-- Data-Driven Understanding and Predicting Character Tier in Arknights
+- Image Restoration through Diffusion Models (*Dec. 2024 - present, Research Assistant*)
+  - Robotics and Autonomous Systems, Hong Kong University of Science and Technology (Guangzhou)
+  - Supervisor: Professor ZHU Lei, Mentor: Mr. YE Tian
+- Data-Driven Understanding and Predicting Character Tier in Arknights (*Nov. 2024 - present, Part-Time Research Internship*)
   - Delft University of Technology and Austrian Institute of Technology
   - Supervisor: Professor Jochen L. Cremer, Mentor: Mr.YU Runyao
     - Implement the responsibilities for PRTS Python crawler; produce ranking CSV; train 3D-CNN; optimize multi-modal model LLM for automation; literature review & writing;
@@ -30,6 +33,7 @@ redirect_from:
     - Literature review
     - Algorithm implementation
     - Paper writing
+  - Paper now submitted to CVPR 2025 and is under review
 ---
 - Real-Time Uncertainty Estimation in Endoscopic Submucosal Dissection (*Jun. 2023 - Aug. 2023, Research Internship*)
   - Department of Computer Science and Engineering, The Chinese University of Hong Kong
