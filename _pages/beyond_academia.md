@@ -17,7 +17,7 @@ Football is one of the biggest endevours in my life!
 
 - Start playing from 10 years old
 - Captain, Football Team – South China University of Technology Affiliated Experimental School (Middle School Section): Led the team to a second-place finish in the Tianhe District Teenager Football League.
-- Vice Captain, Mainland Student Association Football Team – The Chinese University of Hong Kong: Claimed championship in the 2024 Mainland Undergraduate League.
+- Captain, Mainland Student Association Football Team – The Chinese University of Hong Kong: Claimed championship in the 2024 Mainland Undergraduate League.
 - <img src="../images/mua_champion.jpg" alt="MUA IS CHAMPION" width="300"/> 
 - My favorite teams: Mancherster United, Dortmund, Guangzhou Evergrande (Now Guangzhou Team)
 ---
@@ -27,7 +27,7 @@ Table Tennis is also one of my love!
 ---
 ## ACG (Anime, Comics and Games)
 ---
-I am a big fan of ACG culture!
+I am deeply passionate about ACG (Anime, Comics, and Games) culture, which has been a significant source of inspiration in my life. My enthusiasm and endeavors in computer vision are rooted in my love for animations and games, as they sparked my curiosity about how technology can enhance visual storytelling and create immersive experiences.
 
 ### Fate Series
 - Fate Stay Night
