@@ -16,8 +16,8 @@ redirect_from:
 Football is one of the biggest endevours in my life!
 
 - Start playing from 10 years old
-- Captain, Football Team – South China University of Technology Affiliated Experimental School (Middle School Section): Led the team to a second-place finish in the Tianhe District Teenager Football League.
-- Captain, Mainland Student Association Football Team – The Chinese University of Hong Kong: Claimed championship in the 2024 Mainland Undergraduate League.
+- Captain, Football Team - South China University of Technology Affiliated Experimental School (Middle School Section): Led the team to a second-place finish in the Tianhe District Teenager Football League.
+- Captain, Mainland Student Association Football Team - The Chinese University of Hong Kong: Claimed championship in the 2024 Mainland Undergraduate League.
 - <img src="../images/mua_champion.jpg" alt="MUA IS CHAMPION" width="300"/> 
 - My favorite teams: Mancherster United, Dortmund, Guangzhou Evergrande (Now Guangzhou Team)
 ---
