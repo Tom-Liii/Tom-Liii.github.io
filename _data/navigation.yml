@@ -17,14 +17,14 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "About Me"
     url: /
     
   - title: "CV"
     url: /cv/
+
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Beyond Academia"
     url: /beyondAcademia/

@@ -39,7 +39,7 @@ author:
   pubmed           : 
   researchgate     : # URL
   scopus           : # URL
-  openreview       : https://openreview.net/profile?id=~Heming_Li1
+  openreview       : "https://openreview.net/profile?id=~Heming_Li1"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,11 +57,11 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "tom.lee.117"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@heming7266"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
