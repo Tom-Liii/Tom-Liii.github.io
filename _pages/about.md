@@ -10,7 +10,13 @@ Hi there, this is Heming LI, Tom. I am currently a fresh graduate from the Depar
 
 ---
 
-Currently, I am working as a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. [Zhu Lei](https://sites.google.com/site/indexlzhu/home).
+Currently, I am working as a Research Assistant at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Prof. Lei ZHU](https://sites.google.com/site/indexlzhu/home) and [Mr. Tian YE](https://owen718.github.io/).
+
+---
+
+Starting in December 2024, I decided to write blogs on Medium to document my learning and exploration in computer vision. You are more than welcome to visit my blog, and I greatly appreciate any feedback or comments you may have!
+
+[link to my Medium blog](https://medium.com/@heming7266)
 
 ---
 
