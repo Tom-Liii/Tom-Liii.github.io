@@ -14,7 +14,7 @@ Currently, I am working as a Research Assistant at the Hong Kong University of S
 
 ---
 
-Starting in December 2024, I decided to write blogs on Medium to document my learning and exploration in computer vision. You are more than welcome to visit [my blog](https://medium.com/@heming7266), and I greatly appreciate any feedback or comments you may have!
+Starting in December 2024, I decided to write blogs on Notion to document my learning and exploration in computer vision. You are more than welcome to visit [my blog](https://field-board-61c.notion.site/15e24e9716e48068bf72fd686f5acae5?v=15e24e9716e48001b0b0000cdba406a4&pvs=4), and I greatly appreciate any feedback or comments you may have!
 
 ---
 
