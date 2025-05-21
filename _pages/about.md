@@ -28,5 +28,6 @@ Feel free to explore my projects and passions, or contact me if you’d like to 
 - 3D Computer Vision
   - 3D Scene Reconstruction
   - 3D Image Processing
-- Multi-modal model
-- Large Language Model
+- Image Restoratoin
+  - Adverse Weather Restoration
+  - Super-Resolution

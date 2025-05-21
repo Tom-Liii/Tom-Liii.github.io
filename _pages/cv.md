@@ -34,9 +34,7 @@ redirect_from:
     - Literature review
     - Algorithm implementation
     - Paper writing
-  - Paper submitted to CVPR 2025:
-    - Received reviews of 4 (weak aceept), 2, 2 from reviewers. 
-    - Now withdrawn from CVPR 2025 and under preparation for other journals or conference.
+  - Paper now submitted to ACM Multimedia 2025 and is under review
 
 - Real-Time Uncertainty Estimation in Endoscopic Submucosal Dissection (*Jun. 2023 - Aug. 2023, Research Internship*)
   - Department of Computer Science and Engineering, The Chinese University of Hong Kong
