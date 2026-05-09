@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-# Education
 - MPhil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, Sep. 2025 - Jul. 2027 (expected)
   - Current research topic: AI-generated image detection
   - Supervisor: [Professor Lei ZHU](https://sites.google.com/site/indexlzhu/home); Mentor: [Mr. Shuaibo LI](https://scholar.google.com/citations?user=OENYXtsAAAAJ&hl=zh-CN)
