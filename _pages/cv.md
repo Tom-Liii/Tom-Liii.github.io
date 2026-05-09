@@ -10,15 +10,18 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 # Education
+- MPhil, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, Sep. 2025 - Jul. 2027 (expected)
+  - Current research topic: AI-generated image detection
+  - Supervisor: [Professor Lei ZHU](https://sites.google.com/site/indexlzhu/home); Mentor: [Mr. Shuaibo LI](https://scholar.google.com/citations?user=OENYXtsAAAAJ&hl=zh-CN)
 - Bachelor of Science in Computer Science, The Chinese University of Hong Kong, Hong Kong, 2024
 - High School Diploma, Tianhe Foreign Language School, Guangzhou, 2020
 - Junior High School Diploma, South China University of Technology Affiliated Experimental School (Middle School Section), Guangzhou, 2017
 - Elementary School Diploma, South China University of Technology Affiliated Experimental School (Primary School Section), Guangzhou, 2014
 
-# Work experience
-- Image Restoration through Diffusion Models (*Dec. 2024 - present, Research Assistant*)
+# Research experience
+- AI-Generated Image Detection (*Dec. 2024 - present, Research Assistant*)
   - Robotics and Autonomous Systems, Hong Kong University of Science and Technology (Guangzhou)
-  - Supervisor: [Professor Lei ZHU](https://sites.google.com/site/indexlzhu/home); Mentor: [Mr. Tian YE](https://owen718.github.io/)
+  - Supervisor: [Professor Lei ZHU](https://sites.google.com/site/indexlzhu/home); Mentor: [Mr. Shuaibo LI](https://scholar.google.com/citations?user=OENYXtsAAAAJ&hl=zh-CN)
 
 - Data-Driven Understanding and Predicting Character Tier in Arknights (*Nov. 2024 - present, Part-Time Research Internship*)
   - Delft University of Technology and Austrian Institute of Technology
