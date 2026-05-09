@@ -19,7 +19,7 @@ redirect_from:
 - Elementary School Diploma, South China University of Technology Affiliated Experimental School (Primary School Section), Guangzhou, 2014
 
 ## Research experience
-- AI-Generated Image Detection (*Dec. 2024 - present, Research Assistant*)
+- AI-Generated Image Detection (*Dec. 2025 - present, MPhil Thesis*)
   - Robotics and Autonomous Systems, Hong Kong University of Science and Technology (Guangzhou)
   - Supervisor: [Professor Lei ZHU](https://sites.google.com/site/indexlzhu/home); Mentor: [Mr. Shuaibo LI](https://scholar.google.com/citations?user=OENYXtsAAAAJ&hl=zh-CN)
 
